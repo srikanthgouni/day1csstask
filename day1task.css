@@ -1,0 +1,29 @@
+.name{
+    background-color: green;
+    color: white;
+}
+.Professional{
+    background-color: orange;
+    color:white ;
+}
+h2{
+    color: white;
+}
+#work{
+    background-color: blue;
+}
+h3{
+    color: black;
+    font-size: 20px;
+}
+ol{
+    color: black;
+}
+#education{
+    background-color: yellow;
+    color: white;
+}
+.skills{
+    background-color:blueviolet;
+    color: white;
+}
